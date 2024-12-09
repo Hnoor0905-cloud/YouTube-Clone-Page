@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.video{
+    width: 240px;
+    height: 170px;
+}
+.heading{
+    color: black;
+    font-family: sans-serif;
+    font-weight: normal;
+}
